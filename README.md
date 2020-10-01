@@ -1,2 +1,3 @@
 # Facebook-Clone
-Using ReactJs
+Using MERN Stack to build fully functional Facebook Web-App
+
