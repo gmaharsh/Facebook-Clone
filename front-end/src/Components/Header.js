@@ -6,7 +6,7 @@ import FlagIcon from '@material-ui/icons/FlagOutlined';
 import SubscriptionsIcon from '@material-ui/icons/SubscriptionsOutlined';
 import StoreFrontIcon from '@material-ui/icons/StorefrontOutlined';
 import SupervisedUserCircleIcon from '@material-ui/icons/SupervisedUserCircleOutlined';
-import { Avatar, Icon, IconButton } from '@material-ui/core';
+import { Avatar, IconButton } from '@material-ui/core';
 import AddIcon from "@material-ui/icons/Add";
 import ForumIcon from "@material-ui/icons/Forum";
 import NotificationIcon from "@material-ui/icons/NotificationsActive";
@@ -24,9 +24,7 @@ const Header = () => {
             </div>
             <div className="header__center">
                 <div className="header__option header__option--active">
-                    <IconButton>
                         <HomeIcon fontSize="large" />
-                    </IconButton>
                 </div>
                 <div className="header__option">
                     <IconButton>
@@ -52,7 +50,7 @@ const Header = () => {
             <div className="header__right">
                 <div className="header__info">
                     <Avatar />
-                    <h4>Maharsh Hetal Gheewala</h4>
+                    <h4>Maharsh</h4>
                 </div>
                 <IconButton>
                     <AddIcon />
