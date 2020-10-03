@@ -1,0 +1,19 @@
+{
+  "name": "facebook-clone",
+  "version": "1.0.0",
+  "description": "Using MERN Stack to build fully functional Facebook Web-App Hosting Backend on Heroku and Front-end via Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmaharsh/Facebook-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmaharsh/Facebook-Clone/issues"
+  },
+  "homepage": "https://github.com/gmaharsh/Facebook-Clone#readme"
+}
